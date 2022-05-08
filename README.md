@@ -3,7 +3,7 @@
 - 👨‍💼 I’m a fullstack developer from Congo (DRC)
 - 🌱 I’m currently learning JavaScript technologies
 - 👨‍💻 Some of my open source projects are available on <a href="https://github.com/geevadon">https://github.com/geevadon</a>
-- 💬 Ask me about PHP (Laravel & Code Igniter), JavaScript (React JS, Node JS, Redux, Typescript), Databases (MySQL, SQLite, MongoDB) and WordPress (Elementor, Oxygen, Woocommerce, etc)
+- 💬 Ask me about JavaScript (React JS, Next JS, Nest JS, Express JS), PHP (Laravel), and WordPress (Elementor, Oxygen, Woocommerce, etc)
 - 📫 Email me on : <a href="mailto:geevadon.dev@gmail.com">geevadon.dev@gmail.com<a/>
   
 <hr/>
